@@ -11,5 +11,5 @@
 
     Creating Markdown File
 
-
-    
+* __week-3:__
+Intorduction to python - Number and Strings
