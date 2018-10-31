@@ -13,4 +13,4 @@
 
 * __week-3:__
 
-Intorduction to python - Number and Strings
+    Intorduction to python - Number and Strings
